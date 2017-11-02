@@ -1,2 +1,2 @@
-[Team up with Ronda](../findsupplies.md)
+[""](../findsupplies.md)
 
