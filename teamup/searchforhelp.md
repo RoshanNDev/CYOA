@@ -1,2 +1,2 @@
-You and Ronda are attacked by natives. You both died. 
+You and Ronda are attacked by natives. You both died.   
 [Start Over?](../README.md)
