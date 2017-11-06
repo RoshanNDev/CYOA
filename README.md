@@ -7,7 +7,7 @@ You have just crashed in a remote island. You see another survior, suprsingly it
 
 [Will you team up with Ronda](teamup/suppliesorsurvivors.md)
 
-[Or will you try to make it on your own?](soloadventure/explore)
+[Or will you try to make it on your own?](soloadventure/explore.md)
 
 [Link to Mohammad's Github](https://github.com/thewonderer123)
 
