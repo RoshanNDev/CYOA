@@ -1,2 +1,2 @@
-You go searching for supplies. You are attacked by natives. You both died.  
+You go searching for supplies. You are attacked by natives. You died.  
 [Start Over?](../README.md)
