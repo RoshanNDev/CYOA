@@ -1,1 +1,1 @@
-You and Ronda are attacked by natives. You both died. 
+You and Ronda are attacked by natives. You both died a gruesome death. 
